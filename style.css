@@ -59,6 +59,16 @@ img:hover {
 .thumbsize {
   height: 75px;
 }
+
+.badge {
+  line-height: 20px;
+  width: 20px;
+  padding: 0;
+  background: red;
+  position: relative;
+  top: 20px;
+  left: -10px;
+}
 #bio {
   text-align: center;
   background-color: #f7f5e0;
