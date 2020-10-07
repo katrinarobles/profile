@@ -3,7 +3,7 @@ body {
   color: #404042;
   font-size: 18px;
   margin: 50px 150px;
-  background-color: #bee1da;
+  background-color: #f7f5e0;
 }
 
 h1, h2 {
@@ -96,7 +96,7 @@ img:hover {
 }
 
 .footer {
-  background: #fdbed1; /*#696969*/
+  background: #696969;
   text-align: center;
   font-size: 10px;
   padding: 0px 0;
