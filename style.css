@@ -3,7 +3,6 @@ body {
   color: #404042;
   font-size: 18px;
   margin: 50px 150px;
-  background-color: #f7f5e0;
 }
 
 h1, h2 {
@@ -62,7 +61,7 @@ img:hover {
 }
 #bio {
   text-align: center;
-  background-color: #fffacd;
+  background-color: #f7f5e0;
 }
 
 #social-list > li {
