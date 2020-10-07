@@ -49,8 +49,8 @@ img:hover {
 .profile-photo {
   border-radius: 50%;
   width: 250px;
-  box-shadow: 0 3px 5px rgba(0,0,0,0.2);
-  border: white 1px solid;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+  border: white 5px solid;
 }
 .quote {
   font-family: 'Sansita Swashed', cursive, 'Arial';
