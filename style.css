@@ -3,6 +3,8 @@ body {
   color: #404042;
   font-size: 18px;
   margin: 50px 150px;
+  background-image: url("https://png.pngtree.com/png-clipart/20190120/ourlarge/pngtree-elegant-floral-background-design-png-image_327209.jpg");
+  background-size: cover;
 }
 
 h1, h2 {
